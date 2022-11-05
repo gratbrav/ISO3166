@@ -1,0 +1,16 @@
+{
+  "name": "gratbrav/iso3166",
+  "autoload": {
+    "psr-4": { "gratbrav\\ISO3166\\": "src" }
+  },
+  "require": {
+    "php": "^7.4"
+  },
+  "license": "MIT",
+  "authors": [{
+    "name": "Gratbrav"
+  }],
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
