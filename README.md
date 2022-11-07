@@ -2,6 +2,10 @@
 
 A small library for the ISO 3166-1 alpha-2 standard
 
+## Supported languages
+
+English, french, spanish
+
 ## Usage
 
 ```php
